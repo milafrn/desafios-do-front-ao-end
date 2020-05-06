@@ -11,7 +11,7 @@
 - Colocar uma layer que fique encima de todos os cards e atrás do botão
 - Ter opacity cinza
 
-- [x] [Desafio - Básico](https://github.com/milafrn/jogo-da-memoria/commit/d47cb948533a0fb423bc9c1a8422f1211d3a41cd)
+- [x] [Desafio - Básico](https://github.com/milafrn/jogo-da-memoria/commit/582e0e68ea9d0ccfb9c4be3d530176724332fb62)
 
 ---
 
