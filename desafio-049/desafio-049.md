@@ -1,6 +1,6 @@
 # :books: Desafio - 049
 
-## Desafio Básico, Intermediário e Avanaçado :pencil2:
+## Desafio Básico, Intermediário e Avançado :pencil2:
 
 ---
 
